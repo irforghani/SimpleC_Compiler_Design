@@ -1,0 +1,6 @@
+
+digraph G{
+edge [dir=forward]
+node [shape=plaintext]
+program_original -> { program  example open_parantes input kama output clos_parantes semicolon }
+}
